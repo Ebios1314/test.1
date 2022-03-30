@@ -1,4 +1,3 @@
-.sh脚本
 #!/bin/bash
 ### BEGIN INIT INFO
 # Provides: svnd.sh
